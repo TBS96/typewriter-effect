@@ -1,0 +1,13 @@
+body {
+    background-color: blueviolet;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+#message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
